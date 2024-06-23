@@ -62,8 +62,9 @@ Sales Analysis by Days and Hours: Matrix chart to analyze sales performance acro
 * Which are the top 10 products by sales?
 * How does sales performance vary by days and hours?
 ## Result
-image
-"C:\Users\jayak\Projects_DA\coffee_shop_sales\Coffee_Sales_Dashboard_Screenshot .png"
+
+<img width = "354" alt="GFG" src="Coffee_Sales_Dashboard_Screenshot .png">
+
 ## Recommendations
 Based on the analysis, the following insights and recommendations were derived:
 
